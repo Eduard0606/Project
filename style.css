@@ -1,0 +1,110 @@
+.grid {
+    display: flex;
+    box-sizing: border-box;
+    width: 100%;
+    white-space: pre-wrap;
+}
+
+h3 {
+    margin: 0px;
+    background-color: gray;
+    text-align: center;
+    color: white;
+}
+.h1{
+    width: 350px;
+    height: 150px;
+}
+.h2{
+    width: 350px;
+    height: 100px;
+}
+.h3{
+    width: 350px;
+    height: 150px;
+}
+.h4{
+    width: 350px;
+    height: 220px;
+}
+.h5{
+    width: 350px;
+    height: 230px;
+}
+.h6{
+    width: 350px;
+    height: 350px;
+}
+.h7{
+    width: 350px;
+    height: 100px;
+}
+.h8{
+    width: 350px;
+    height: 150px;
+}
+.h9{
+    width: 350px;
+    height: 150px;}
+.item-1 {
+    width: 350px;
+    border: 1px solid black;
+    margin: 0px 20px 20px;
+    box-sizing: content-box;
+    padding: 5px;
+}
+
+.item-2 {
+    width: 350px;
+    border: 1px solid black;
+    margin: 0px 20px 20px;
+    padding: 5px;
+}
+.item-3 {
+    width: 350px;
+    border: 1px solid black;
+    margin: 0px 20px 20px;
+    padding: 5px;
+}
+
+.item-4 {
+    width: 350px;
+    border: 1px solid black;
+    margin: 0px 20px 20px;
+    padding: 5px;
+}
+
+.item-5 {
+    width: 350px;
+    border: 1px solid black;
+    margin: 0px 20px 20px;
+    padding: 5px;
+}
+
+.item-6 {
+    width: 350px;
+    border: 1px solid black;
+    margin: 0px 20px 20px;
+    padding: 5px;
+}
+
+.item-7 {
+    width: 350px;
+    border: 1px solid black;
+    margin: 0px 20px 20px;
+    padding: 5px;
+}
+
+.item-8 {
+    width: 350px;
+    border: 1px solid black;
+    margin: 0px 20px 20px;
+    padding: 5px;
+}
+
+.item-9 {
+    width: 350px;
+    border: 1px solid black;
+    margin: 0px 20px 20px;
+    padding: 5px;
+}
