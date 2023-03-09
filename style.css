@@ -1,110 +1,63 @@
-.grid {
+.flex-1 {
     display: flex;
-    box-sizing: border-box;
-    width: 100%;
-    white-space: pre-wrap;
+
 }
 
-h3 {
-    margin: 0px;
-    background-color: gray;
+.flex-2 {
+    display: flex;
+}
+
+.flex-3 {
+    display: flex;
+}
+
+.flex-4 {
+    display: flex;
+}
+
+.flex-5 {
+    display: flex;
+}
+
+.flex-6 {
+    display: flex;
+}
+
+.user-1 {
+    background-color: rgb(230, 152, 152);
+    color: black;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
     text-align: center;
-    color: white;
-}
-.h1{
-    width: 350px;
-    height: 150px;
-}
-.h2{
-    width: 350px;
-    height: 100px;
-}
-.h3{
-    width: 350px;
-    height: 150px;
-}
-.h4{
-    width: 350px;
-    height: 220px;
-}
-.h5{
-    width: 350px;
-    height: 230px;
-}
-.h6{
-    width: 350px;
-    height: 350px;
-}
-.h7{
-    width: 350px;
-    height: 100px;
-}
-.h8{
-    width: 350px;
-    height: 150px;
-}
-.h9{
-    width: 350px;
-    height: 150px;}
-.item-1 {
-    width: 350px;
-    border: 1px solid black;
-    margin: 0px 20px 20px;
-    box-sizing: content-box;
-    padding: 5px;
+    margin: 10px;
+    padding: 10px;
 }
 
-.item-2 {
-    width: 350px;
-    border: 1px solid black;
-    margin: 0px 20px 20px;
-    padding: 5px;
+.user-2 {
+    background-color: rgb(84, 166, 221);
+    color: black;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-top-right-radius: 15px;
+    text-align: center;
+    margin: 10px;
+    margin-left: 160px;
+    padding: 10px;
 }
-.item-3 {
-    width: 350px;
-    border: 1px solid black;
-    margin: 0px 20px 20px;
-    padding: 5px;
+body{
+    font-family: monospace;
+    font-size: 16px;
+    font-weight: 700;
 }
-
-.item-4 {
-    width: 350px;
-    border: 1px solid black;
-    margin: 0px 20px 20px;
-    padding: 5px;
+.icon{
+    display: flex;
 }
-
-.item-5 {
-    width: 350px;
-    border: 1px solid black;
-    margin: 0px 20px 20px;
-    padding: 5px;
+.icon-2{
+    display: flex;
+    flex-direction:row-reverse
 }
-
-.item-6 {
-    width: 350px;
-    border: 1px solid black;
-    margin: 0px 20px 20px;
-    padding: 5px;
-}
-
-.item-7 {
-    width: 350px;
-    border: 1px solid black;
-    margin: 0px 20px 20px;
-    padding: 5px;
-}
-
-.item-8 {
-    width: 350px;
-    border: 1px solid black;
-    margin: 0px 20px 20px;
-    padding: 5px;
-}
-
-.item-9 {
-    width: 350px;
-    border: 1px solid black;
-    margin: 0px 20px 20px;
-    padding: 5px;
+span{
+    color: gray;
+    font-size: small;
 }
